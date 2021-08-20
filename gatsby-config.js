@@ -36,10 +36,10 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Tanner Carrico",
+    description: "has thoughts",
   },
-  pathPrefix: "/gatsby-contentful-starter",
+  pathPrefix: "/tall-sky",
   plugins: [
     "gatsby-transformer-remark",
     "gatsby-transformer-sharp",
