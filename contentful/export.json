@@ -500,31 +500,19 @@
             },
             "fields": {
                 "name": {
-                    "en-US": "John Doe"
+                    "en-US": "Tanner Carrico"
                 },
                 "title": {
-                    "en-US": "Web Developer"
+                    "en-US": "Test Engineer"
                 },
                 "company": {
-                    "en-US": "ACME"
+                    "en-US": "Me"
                 },
                 "shortBio": {
-                    "en-US": "Research and recommendations for modern stack websites."
+                    "en-US": "writing and music"
                 },
                 "email": {
-                    "en-US": "john@doe.com"
-                },
-                "phone": {
-                    "en-US": "0176 / 1234567"
-                },
-                "facebook": {
-                    "en-US": "johndoe"
-                },
-                "twitter": {
-                    "en-US": "johndoe"
-                },
-                "github": {
-                    "en-US": "johndoe"
+                    "en-US": "carricotanner@gmail.com"
                 },
                 "image": {
                     "en-US": {
