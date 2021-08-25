@@ -7,7 +7,7 @@
   --font-serif: 'Playfair Display', serif;
 
   /* palette */
-  --white: #FFEECF;
+  --white: #FDF0D5;
   --black: #000;
   --black-fade-5: rgba(0, 0, 0, 0.05);
 
@@ -50,7 +50,7 @@
 
   /* tokens */
   /* colors */
-  --primary: #21A0A0;
+  --primary: #D36582;
   --background: var(--white);
   --border: var(--black-fade-5);
 
