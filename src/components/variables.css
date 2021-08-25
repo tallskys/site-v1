@@ -1,7 +1,7 @@
 :root {
   /* primitives */
   /* font-family */
-  --font-sans: 'Nunito';
+  --font-sans: 'Libre Franklin', sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
     'Courier New', monospace;
   --font-serif: 'Playfair Display', serif;
