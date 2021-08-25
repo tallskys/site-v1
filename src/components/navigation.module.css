@@ -21,7 +21,7 @@
 }
 
 .navigationItem a {
-  border-bottom: 1.5px solid transparent;
+  border-bottom: 2.5px solid transparent;
   color: currentColor;
   text-decoration: none;
 }
